@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+<color name="text_color">#FFFFFF</color>
+<color name="ball_shadow">#252535</color>
+<color name="ball_highlight">#F0F0FF</color>
+
+<color name="wall">#B0A5F5</color>
+
+<color name="goal_shadow">#09ad7e</color>
+<color name="goal_highlight">#9fd9bb</color>
+
+<color name="background">#00217a</color>
+</resources>
